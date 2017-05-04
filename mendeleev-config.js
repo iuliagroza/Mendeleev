@@ -831,9 +831,9 @@ var quizJSON = {
             "q": "Nb",
             "a": [
                 {"option": "Neodim",    "correct": false},
-                {"option": "Nobeliu",     "correct": true},
+                {"option": "Nobeliu",     "correct": false},
                 {"option": "Neon",      "correct": false},
-                {"option": "Niobiu",   "correct": false} // no comma here
+                {"option": "Niobiu",   "correct": true} // no comma here
             ],
             "correct": "<p><span>Corect!</span> Niobiul (cunoscut și sub precedenta denumire de columbiu, notat cu Cb) este un element chimic notat cu simbolul Nb,care prezintă numărul atomic 41. Este un metal de tranziție moale, de culoare gri, ductil, fiind găsit des în mineralul piroclor (principala sursă comercială de niobiu) și în columbită.</p>",
             "incorrect": "<p><span>Umm...nu</span> Niobiul (cunoscut și sub precedenta denumire de columbiu, notat cu Cb) este un element chimic notat cu simbolul Nb,care prezintă numărul atomic 41. Este un metal de tranziție moale, de culoare gri, ductil, fiind găsit des în mineralul piroclor (principala sursă comercială de niobiu) și în columbită.</p>" // no comma here
@@ -894,15 +894,15 @@ var quizJSON = {
             "incorrect": "<p><span>Umm...nu</span> Thoriul este un element chimic natural radioactiv cu numărul atomic 90 și simbol chimic Th, ce se găsește în natură (izotopul său cel mai stabil 232Th, care are un timp de înjumătățire de peste 14 milioane de ani).</p>" // no comma here
         },
         { // Question 81
-            "q": "Kr",
+            "q": "Cr",
             "a": [
                 {"option": "Potasiu",    "correct": false},
-                {"option": "Kripton",     "correct": true},
-                {"option": "Osmiu",      "correct": false},
+                {"option": "Kripton",     "correct": false},
+                {"option": "Crom",      "correct": true},
                 {"option": "Niobiu",   "correct": false} // no comma here
             ],
-            "correct": "<p><span>Corect!</span> Kriptonul (simbol - Kr) este un element chimic monoatomic din grupa gazelor nobile, perioada a 4-a, care ocupă poziția 36 în tabelul periodic al elementelor. Este un element nereactiv, ca și celelalte gaze nobile, formând un singur compus cunoscut, Fluorura de kripton (KrF2).</p>",
-            "incorrect": "<p><span>Umm...nu</span> Kriptonul (simbol - Kr) este un element chimic monoatomic din grupa gazelor nobile, perioada a 4-a, care ocupă poziția 36 în tabelul periodic al elementelor. Este un element nereactiv, ca și celelalte gaze nobile, formând un singur compus cunoscut, Fluorura de kripton (KrF2).</p>" // no comma here
+            "correct": "<p><span>Corect!</span> Cromul este un element chimic care are simbolul chimic Cr și numărul atomic 24. Este primul element chimic al grupei 6. Are o culoare alb-cenușie și este lucios.</p>",
+            "incorrect": "<p><span>Umm...nu</span> Cromul este un element chimic care are simbolul chimic Cr și numărul atomic 24. Este primul element chimic al grupei 6. Are o culoare alb-cenușie și este lucios.</p>" // no comma here
         },
         { // Question 82
             "q": "Dy",
