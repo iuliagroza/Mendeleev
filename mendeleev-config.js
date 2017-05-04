@@ -4,7 +4,7 @@ var quizJSON = {
     "info": {
         "name":    "Cunoști toate elementele tabelului periodic?",
         "main":    "<p>Încearcă să asociezi toate denumirile elementelor chimice din tabelul periodic al lui Mendeleev cu simbolurile date. Alege TOATE variantele corecte în cazul denumirilor multiple. Succes! :)</p>",
-        "results": "<h5>Learn More</h5><p>Elementul meu preferat? Surpriza. - <i>Dmitri Ivanovici Mendeleev</i></p>",
+        "results": "<p>Elementul meu preferat? Surpriza. - <i>Dmitri Ivanovici Mendeleev</i></p>",
         "level1":  "Chemistry Wizard",
         "level2":  "AmAtEuR<del>e</del>",
         "level3":  "AmAtEuR<del>e</del>",
